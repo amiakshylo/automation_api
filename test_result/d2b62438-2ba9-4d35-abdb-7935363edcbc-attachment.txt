@@ -1,0 +1,9 @@
+GET after DELETE request
+https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+{"msg":"Delete operation failed, looks like the data doesn't exists"}
+404
+Status code as expected, actual result - 404
+['msg']
+Mandatory fields as expected, actual result: ['msg']
+expected_value in field 'msg' found: 'Delete operation failed, looks like the data doesn't exists'
+All tests successfully done!
