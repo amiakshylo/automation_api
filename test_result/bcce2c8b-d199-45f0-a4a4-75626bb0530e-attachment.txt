@@ -1,8 +1,0 @@
-GET after POST request
-https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=b20bf6a1351ed1e9a23688ab48e8b3a0
-{"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"Frontlinehouse","phone_number":"(+91)9838933937","address":"234 15 Street NW, Toronto, Ca","types":"shoepark,shop","website":"http:\/\/google.com","language":"French-IN"}
-200
-Status code as expected, actual result - 200
-['location', 'accuracy', 'name', 'phone_number', 'address', 'types', 'website', 'language']
-Mandatory fields as expected, actual result: ['location', 'accuracy', 'name', 'phone_number', 'address', 'types', 'website', 'language']
-expected_value in field 'address' found: '234 15 Street NW, Toronto, Ca'

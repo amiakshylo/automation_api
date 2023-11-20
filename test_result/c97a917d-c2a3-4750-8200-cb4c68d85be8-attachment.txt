@@ -1,8 +1,0 @@
-DELETE request
-https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
-{"status":"OK"}
-200
-Status code as expected, actual result - 200
-['status']
-Mandatory fields as expected, actual result: ['status']
-expected_value in field 'status' found: 'OK'
