@@ -1,0 +1,8 @@
+POST request
+https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+{"status":"OK","place_id":"b20bf6a1351ed1e9a23688ab48e8b3a0","scope":"APP","reference":"7805cc6a779be69c916bc78d95d328a67805cc6a779be69c916bc78d95d328a6","id":"7805cc6a779be69c916bc78d95d328a6"}
+200
+Status code as expected, actual result - 200
+['status', 'place_id', 'scope', 'reference', 'id']
+Mandatory fields as expected, actual result: ['status', 'place_id', 'scope', 'reference', 'id']
+expected_value in field 'status' found: 'OK'

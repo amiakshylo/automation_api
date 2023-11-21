@@ -1,0 +1,8 @@
+PUT request (Change address to '3021 17 Ave, SW, Toronto, Canada'
+https://rahulshettyacademy.com/maps/api/place/update/json?key=qaclick123
+{"msg":"Address successfully updated"}
+200
+Status code as expected, actual result - 200
+['msg']
+Mandatory fields as expected, actual result: ['msg']
+expected_value in field 'msg' found: 'Address successfully updated'
